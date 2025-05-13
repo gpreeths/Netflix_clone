@@ -1,6 +1,5 @@
 import { Routes,Route } from "react-router-dom"
 import Signin from "./Pages/Signin"
-import "./Css/App.css"
 import Movie from "./Pages/Movies"
 import Movie_details from "./Pages/Movie_details"
 import Login from "./Pages/Login"
